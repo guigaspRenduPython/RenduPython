@@ -1,0 +1,57 @@
+{
+    "Medium healing potion":{
+        "target": "self",
+        "price": 35,
+        "affectedStat": "health",
+        "value": 75
+    },
+
+    "Attack boost":{
+        "target": "self",
+        "price": 45,
+        "affectedStat": "attack",
+        "value": 0.3
+    },
+
+    "Defense boost":{
+        "target": "self",
+        "price": 45,
+        "affectedStat": "defense",
+        "value": 0.4
+    },
+
+    "Speed boost":{
+        "target": "self",
+        "price": 50,
+        "affectedStat": "speed",
+        "value": 0.3
+    },
+
+    "Elemental bomb":{
+        "target": "enemy",
+        "price": 40,
+        "affectedStat": "health",
+        "value": 50
+    },
+
+    "Attack debuff":{
+        "target": "enemy",
+        "price": 55,
+        "affectedStat": "attack",
+        "value": 0.3
+    },
+
+    "Defense debuff":{
+        "target": "enemy",
+        "price": 55,
+        "affectedStat": "defense",
+        "value": 0.4
+    },
+
+    "Speed bdebuff":{
+        "target": "enemy",
+        "price": 55,
+        "affectedStat": "speed",
+        "value": 0.3
+    }
+}

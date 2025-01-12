@@ -1,0 +1,37 @@
+{
+    "Shadow":{
+        "tier": "normal",
+        "maxHealth": 21,
+        "expGift": 3,
+        "goldGift": 5,
+        "attack": 5,
+        "defense": 5,
+        "speed": 15,
+        "specialActionFrequency": 10,
+        "specialAction": "Sciophobia"
+    },
+
+    "Armored Orthrus":{
+        "tier": "elite",
+        "maxHealth": 99,
+        "expGift": 22,
+        "goldGift": 34,
+        "attack": 20,
+        "defense": 45,
+        "speed": 10,
+        "specialActionFrequency": 3,
+        "specialAction": "Motivating howl"
+    },
+
+    "Behemoth":{
+        "tier": "boss",
+        "maxHealth": 250,
+        "expGift": 120,
+        "goldGift": 200,
+        "attack": 70,
+        "defense": 55,
+        "speed": 40,
+        "specialActionFrequency": 2,
+        "specialAction": "Destructive roar"
+    }
+}
